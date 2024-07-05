@@ -679,7 +679,7 @@ https://melon-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhGbyb94Cg-SDHNn69wxtfBz7a-6UDwkqvUpO9Yyoo3VtlKSKpBrIrUSAYWHj-fOuw.png" group-title="? TV ANAK",DREAMWORS
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhGbyb94Cg-SDHNn69wxtfBz7a-6UDwkqvUpO9Yyoo3VtlKSKpBrIrUSAYWHj-fOuw.png" group-title="TV ANAK",DREAMWORS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -747,46 +747,103 @@ https://melon-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 ============================================================================berita======================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiJ4mFYUs2kHPz5eYk89VYrnb40kv1EcDkhn1ueTq8KlXTOb8OQpdUBGkBXeRIYVEs.png" group-title="? TV NASIONAL",BERITA SATU
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11538
-#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgtyoucKzDs9uQr66CXM8qp9dDsE2JsRZiiQEoxVs2R1gH3fw1ZYG2AJakeNOrY1QI.png" group-title="? BERITA",SINDO NEWS
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11539
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2XG-4BUaEjXTsidQKunn8zKQ8wYSsYimNh7RekOYJlbM.png" group-title="? BERITA",CNN INDONESIA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11540
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2UKSTtDIwKVBFpldoKIv9VFYWsGTGa5SuNgil9eQaNLs.png" group-title="? BERITA",CNBC INDONESIA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11541
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="? BERITA",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiJ4mFYUs2kHPz5eYk89VYrnb40kv1EcDkhn1ueTq8KlXTOb8OQpdUBGkBXeRIYVEs.png" group-title="BERITA",BERITA SATU
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgtyoucKzDs9uQr66CXM8qp9dDsE2JsRZiiQEoxVs2R1gH3fw1ZYG2AJakeNOrY1QI.png" group-title="BERITA",SINDO NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2XG-4BUaEjXTsidQKunn8zKQ8wYSsYimNh7RekOYJlbM.png" group-title="BERITA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2UKSTtDIwKVBFpldoKIv9VFYWsGTGa5SuNgil9eQaNLs.png" group-title="BERITA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="BERITA",CNN INTERNATIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/81
-#EXTINF:-1 tvg-id="" tvg-name="CNN OPT 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="? BERITA",CNN OPT 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cnninternasional.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN OPT 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="BERITA",CNN OPT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/82
-#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxsHcH7jNSj53F1BlvOSbI8myoSDDOFT-MC013jcNMc4c.png" group-title="? BERITA",CNBC ASIA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11570
-#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgwnEAfVEJNmLQkimE5umQtT7rhrdF1rG7aqolcegs1CiYXylKoA-AMItPkpItN0_A.png" group-title="? BERITA",RT ENGLISH
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11571
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhcVEEq3EXEvSC177mw5NcT7jmNqg8nqIl9765a7Dfx-47Tz0YijkESKM2BxykewvI.png" group-title="? BERITA",BBC WORLD
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11572
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj4s1R2ptTSnbkm_rt-LmRBEHAzyFGzbhAkyywWw9U9YMLOvD7oO_hfgKN-4acMrOA.png" group-title="? BERITA",ALJAZEERA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11573
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7HpxvBUwn-p5E2MplNBT8ZBP7MyzXdiJipR8lGFRMUFFafsp3tMRQaBi7DoYHn2M.png" group-title="? BERITA",BLOOMBERG
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11574
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhHgzKX2ESZLH_sUD3h36Hyy9dFsB4T1HOI_H1y4ypZwA.png" group-title="? HIBURAN",CGTN
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11575
-#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLju56qd7QnuoyIXyZOgymZdTyXLVWlWPDNMrWp2v8phO9gszKnHNuuZQylHO5f4ErI.png" group-title="? BERITA",DW ENGLISH
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11576
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjv51UO9S3HlHYMG5xPTdn063fO5tz41KBeuT7HpdQ77t7axdDK18ID4XOkyEsDp3w.png" group-title="? BERITA",EURO NEWS
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11577
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiuw9pv-MdhlBq2tgzIEkMn2T2ij4J1NZ6rdavuxU3O2X0Ko36juhSOb8vrB2zbFnY.png" group-title="? BERITA",FRANCE 24
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11578
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxObMiXobjZE6vxqRHrwWb5A.png" group-title="? BERITA",CNA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11579
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjGdNdAE2DoPBR_iL0nay3H86vCNX36_XYSZh8YGyGXrek8_Qc6GDc-5UQjf0BfC18.png" group-title="? BERITA",FOX NEWS
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11580
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgUa_O6AeUHlE0YKC5PLexjCvBvTbMjuhAfcl6eMhyYWA.png" group-title="? BERITA",IDX
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11581
-#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg2y3ROhn6NacLsneSVIEOZu4-5rWVhF976204CBPOZCVrCHFabVOt1kexNiPd7mqQ.png" group-title="? BERITA",SEA TODAY
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11582
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cnnus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxsHcH7jNSj53F1BlvOSbI8myoSDDOFT-MC013jcNMc4c.png" group-title="BERITA",CNBC ASIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgwnEAfVEJNmLQkimE5umQtT7rhrdF1rG7aqolcegs1CiYXylKoA-AMItPkpItN0_A.png" group-title="BERITA",RT ENGLISH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhcVEEq3EXEvSC177mw5NcT7jmNqg8nqIl9765a7Dfx-47Tz0YijkESKM2BxykewvI.png" group-title="BERITA",BBC WORLD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj4s1R2ptTSnbkm_rt-LmRBEHAzyFGzbhAkyywWw9U9YMLOvD7oO_hfgKN-4acMrOA.png" group-title="BERITA",ALJAZEERA
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7HpxvBUwn-p5E2MplNBT8ZBP7MyzXdiJipR8lGFRMUFFafsp3tMRQaBi7DoYHn2M.png" group-title="BERITA",BLOOMBERG
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhHgzKX2ESZLH_sUD3h36Hyy9dFsB4T1HOI_H1y4ypZwA.png" group-title="BERITA",CGTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLju56qd7QnuoyIXyZOgymZdTyXLVWlWPDNMrWp2v8phO9gszKnHNuuZQylHO5f4ErI.png" group-title="BERITA",DW ENGLISH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjv51UO9S3HlHYMG5xPTdn063fO5tz41KBeuT7HpdQ77t7axdDK18ID4XOkyEsDp3w.png" group-title="BERITA",EURO NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiuw9pv-MdhlBq2tgzIEkMn2T2ij4J1NZ6rdavuxU3O2X0Ko36juhSOb8vrB2zbFnY.png" group-title="BERITA",FRANCE 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxObMiXobjZE6vxqRHrwWb5A.png" group-title="BERITA",CNA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjGdNdAE2DoPBR_iL0nay3H86vCNX36_XYSZh8YGyGXrek8_Qc6GDc-5UQjf0BfC18.png" group-title="BERITA",FOX NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgUa_O6AeUHlE0YKC5PLexjCvBvTbMjuhAfcl6eMhyYWA.png" group-title="BERITA",IDX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg2y3ROhn6NacLsneSVIEOZu4-5rWVhF976204CBPOZCVrCHFabVOt1kexNiPd7mqQ.png" group-title="BERITA",SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 ===================================================================religi===============================================================================================
 
