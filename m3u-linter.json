@@ -474,7 +474,7 @@ ch.close();
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://imgur.com/02AjzLj" group-title="INFORMASI",1d#-S(BUKAN UNTUK DIPERJUAL BELIKAN)
+#EXTINF:-1 tvg-name="6"  tvg-logo="https://i.imgur.com/02AjzLj.png" group-title="INFORMASI",1d#-S(BUKAN UNTUK DIPERJUAL BELIKAN)
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
 ================================================================live==========================================================================================================================================================================
@@ -641,13 +641,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
-#EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn9dNvlfaXz9JyL7gOjaB9o53_C1U6OqfUMQ-MNUZ9tg.png" group-title="? TV NASIONAL",RCTI
+#EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn9dNvlfaXz9JyL7gOjaB9o53_C1U6OqfUMQ-MNUZ9tg.png" group-title="TV NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTu5fUc8LCoDFxKep_s3xoFQ.png" group-title="? TV NASIONAL",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTu5fUc8LCoDFxKep_s3xoFQ.png" group-title="TV NASIONAL",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
@@ -657,50 +657,92 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059
 
 #EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhQTkjRG9cVYD7Tc6sEOr_jz2csMfcFZ7qHydU5U-D0gQ.png" group-title="? TV ANAK",LARVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
 #EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgMAz47JNHRe7TsLQp7GxPilBvTTw104Z0gg6pLRxFWKu2ak6JCkOXE353Aew1XOjg.png" group-title="? TV ANAK",UPIN IPIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
 #EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLi8vsqH20CjlltjjAKLxNto_-TTm6J2tm4P3nqbhMD6e93r2zMfS5_bZHX1TGpGYAg.png" group-title="? TV ANAK",MASHA & BEAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
 #EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgbjoDGUgAbE-lsbfN0rb_Bndhil5IPme9AV2SurY89R7-8rDvCvrpM_7yVP4VKHCI.png" group-title="? TV ANAK",DORAEMAON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2wWJTs6ugyLIbc5XsubDD3eogvCTL6M_6qLQoTvP7TDM.png" group-title="? TV ANAK",NICK JR
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2wWJTs6ugyLIbc5XsubDD3eogvCTL6M_6qLQoTvP7TDM.png" group-title="TV ANAK",NICK JR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhs-wCG0MUpnxLIK01vpoHH3wwl4fYRkUawcS6Ge7kaT5kmOwHUDfGAnlx7Bt0AAEw.png" group-title="TV ANAK",MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/93
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhs-wCG0MUpnxLIK01vpoHH3wwl4fYRkUawcS6Ge7kaT5kmOwHUDfGAnlx7Bt0AAEw.png" group-title="? TV ANAK",MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/92
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhGbyb94Cg-SDHNn69wxtfBz7a-6UDwkqvUpO9Yyoo3VtlKSKpBrIrUSAYWHj-fOuw.png" group-title="? TV ANAK",DREAMWORS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiSS9eARAwz06n6hyLje3buaheUCuPqj6PtteBfkia5xzZHyW9mirN9Nf16qPj648g.png" group-title="TV ANAK",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/95
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiSS9eARAwz06n6hyLje3buaheUCuPqj6PtteBfkia5xzZHyW9mirN9Nf16qPj648g.png" group-title="? TV ANAK",CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhxFcYqQC0yXQAh0YXDBd8XpcawQ15Cn1T-WQFV5rWUUQ.png" group-title="TV ANAK",HOREE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/74
-#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhxFcYqQC0yXQAh0YXDBd8XpcawQ15Cn1T-WQFV5rWUUQ.png" group-title="? TV ANAK",HOREE
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol91KWJUHR53VV6_u2gw8_ZJzCZSpQwtq_7t8jp19LljmY.png" group-title="TV ANAK",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/72
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol91KWJUHR53VV6_u2gw8_ZJzCZSpQwtq_7t8jp19LljmY.png" group-title="? TV ANAK",ANIPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhLU7S81rxgLyrEGIKeBz7rQY0e2yCSBKPHuz51Gu7ytttODUbRve7c0OC_ko_ElN8.png" group-title="TV ANAK",MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/75
-#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhLU7S81rxgLyrEGIKeBz7rQY0e2yCSBKPHuz51Gu7ytttODUbRve7c0OC_ko_ElN8.png" group-title="? TV ANAK",MY KIDZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol9dbVcJnb51AvN63Md6NrmRrFBGPX0Own4yFjVBdOfD2Q.png" group-title="TV ANAK",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/94
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol9dbVcJnb51AvN63Md6NrmRrFBGPX0Own4yFjVBdOfD2Q.png" group-title="? TV ANAK",ANIMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/107
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhFiYCZgqcguJIBWlN2_B-mwNNZ3DlB0GvknPubGDnF_tpepGvZeC7zqYLzJuVEdx4.png" group-title="? TV ANAK",KIDS TV
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11565
-#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhtAW4tl2xaFoFZiikp03-Pc0L25avNvl1lU_X4iWsFQlquCtKGI3VuCEl862S2zmM.png" group-title="? TV ANAK",CBEBIES
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11566
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2x0hPaOB8ZV_zDw1DZ5xr803sZUIXM3PU0QIpkU-yhko.png" group-title="? TV ANAK",NICKELODEON
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11567
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg_SytwClBOtdZRG_we-S85te4dlx_w4gigp_XKIVGvY1zI-7vPBrECS9WB-oNVrkA.png" group-title="? TV ANAK",CINEMACHI KIDS
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11568
-#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj_56EUMaVb4kTj24v4zVxBmymTyiC1gBoJ9ByYgrCujcql0uDUFUP_NnX7mvBjfoU.png" group-title="? TV ANAK",ZOO MOO
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11569
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhFiYCZgqcguJIBWlN2_B-mwNNZ3DlB0GvknPubGDnF_tpepGvZeC7zqYLzJuVEdx4.png" group-title="TV ANAK",KIDS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhtAW4tl2xaFoFZiikp03-Pc0L25avNvl1lU_X4iWsFQlquCtKGI3VuCEl862S2zmM.png" group-title="TV ANAK",CBEBIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2x0hPaOB8ZV_zDw1DZ5xr803sZUIXM3PU0QIpkU-yhko.png" group-title="TV ANAK",NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg_SytwClBOtdZRG_we-S85te4dlx_w4gigp_XKIVGvY1zI-7vPBrECS9WB-oNVrkA.png" group-title="TV ANAK",CINEMACHI KIDS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj_56EUMaVb4kTj24v4zVxBmymTyiC1gBoJ9ByYgrCujcql0uDUFUP_NnX7mvBjfoU.png" group-title="TV ANAK",ZOO MOO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 
 ============================================================================berita======================================================================================================
