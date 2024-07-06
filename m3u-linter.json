@@ -1314,7 +1314,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd?token=hati-hati-keluar-bok3p
+http://124.217.248.213:8080/linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI3hdTdgT3VpzvIKDnMtmy81Sssd9TzofI8qec0TDvsos.png" group-title="SPORTS",ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1350,7 +1350,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd?token=hati-hati-keluar-bok3p
+http://124.217.248.213:8080/linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd?token=hati-hati-keluar-bok3p
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HILWHHqyddDBBieexfMpDrDw.png" group-title="SPORTS",beIN SPORTS MY2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
