@@ -488,14 +488,35 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/134
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/135
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 1
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/97
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://hzbcdcv.xyz/sg/HubPremier12/output/manifest.mpd?type=dash
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 3
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://hzbcdcv.xyz/sg/HubPremier3/output/manifest.mpd?type=dash
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 4" tvg-logo="https://play.gachor99.my.id:443/images/41XrJW_rFnTScKiHhnyTkUu7q7mr0hVmT9ymGqMrmjhd8sI_RETWF3sX7k8hLivc_HwOKd2622XgEfL3dQ4Jcb2ecExNhf1tQC4szwOEOBbitWwVAKOMCmidsI29Ct-48bltFPbv4H_hfulfPuDP0yI-_Sz7iTRawQUagFGzSCEzHpIUZuqsG4esE_ihaxu-.png" group-title="FOOTBALL EVENT",EPL - 4
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12570
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12499
