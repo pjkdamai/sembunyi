@@ -480,7 +480,8 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 ================================================================live==========================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 1
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/133
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/134
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 3
