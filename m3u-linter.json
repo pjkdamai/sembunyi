@@ -569,6 +569,7 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12192
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://luxurystream.my.id/live/89FAF0B274E8E4C8E7CEFE99C0AB2BA4/24.ts/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE EVENT",PRO LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1661,16 +1662,19 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12671
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11618
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiAW2OJp62HtK6GerrjKK7TtFSWLLx8cXCSvgoPWnkB7lLgVX7W0W3ACKW3cScwt7I.png" group-title="MALAYSIA",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11619
+http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTEPQA6hges0FDYRDyxZLRVuOf4PxMyYs3zuBv0EXsowU.png" group-title="MALAYSIA",ASTRO OASIS
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11620
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTj-bqHLRFWDzFWhUtSH1qwS9c4uDxiC0H_0_bhhGFX5c.png" group-title="MALAYSIA",ASTRO RANIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11621
+http://38.47.189.134:1234/stream/astro/astrorania/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
+
 #EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTfDFSpzgmKzupXv0owIfiEC2CNZMq8fe2Y-IBOMhXHuw.png" group-title="MALAYSIA",AWESOME
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11622
+http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QM_0h9h0SxL6WUjuwbZWg.png" group-title="MALAYSIA",TV 1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
