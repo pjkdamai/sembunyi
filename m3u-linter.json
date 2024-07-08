@@ -477,148 +477,7 @@ ch.close();
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://i.imgur.com/02AjzLj.png" group-title="INFORMASI",1d#-S(BUKAN UNTUK DIPERJUAL BELIKAN)
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-================================================================live==========================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/135
-
-#EXTINF:-1 tvg-id="" tvg-name="EPL - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
-
-#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://hzbcdcv.xyz/sg/HubPremier12/output/manifest.mpd?type=dash
-
-#EXTINF:-1 tvg-id="" tvg-name="EPL - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://hzbcdcv.xyz/sg/HubPremier3/output/manifest.mpd?type=dash
-
-#EXTINF:-1 tvg-id="" tvg-name="EPL - 4" tvg-logo="https://play.gachor99.my.id:443/images/41XrJW_rFnTScKiHhnyTkUu7q7mr0hVmT9ymGqMrmjhd8sI_RETWF3sX7k8hLivc_HwOKd2622XgEfL3dQ4Jcb2ecExNhf1tQC4szwOEOBbitWwVAKOMCmidsI29Ct-48bltFPbv4H_hfulfPuDP0yI-_Sz7iTRawQUagFGzSCEzHpIUZuqsG4esE_ihaxu-.png" group-title="FOOTBALL EVENT",EPL - 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12570
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12499
-#EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12500
-#EXTINF:-1 tvg-id="" tvg-name="SERI A - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12501
-
-#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12502
-#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12503
-#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12504
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9806
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12106
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12199
-
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE EVENT",LIGA 1 BRI-1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12192
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE EVENT",LIGA 1 BRI-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://luxurystream.my.id/live/89FAF0B274E8E4C8E7CEFE99C0AB2BA4/24.ts/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
-https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE EVENT",PRO LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117
-
-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9798
-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12169
-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12107
-
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11938
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9799
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12110
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9807
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 5" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12108
-
-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/142
-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12112
-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9805
-
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="LIVE EVENT",CRICKET - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/122
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="LIVE EVENT",CRICKET - 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9804
 
 
 ==================================================================================================nasional==========================================================================================================================
@@ -1342,6 +1201,147 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
+
+================================================================live==========================================================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="FOOTBALL EVENT",LALIGA - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/135
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://hzbcdcv.xyz/sg/HubPremier12/output/manifest.mpd?type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="FOOTBALL EVENT",EPL - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://hzbcdcv.xyz/sg/HubPremier3/output/manifest.mpd?type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 4" tvg-logo="https://play.gachor99.my.id:443/images/41XrJW_rFnTScKiHhnyTkUu7q7mr0hVmT9ymGqMrmjhd8sI_RETWF3sX7k8hLivc_HwOKd2622XgEfL3dQ4Jcb2ecExNhf1tQC4szwOEOBbitWwVAKOMCmidsI29Ct-48bltFPbv4H_hfulfPuDP0yI-_Sz7iTRawQUagFGzSCEzHpIUZuqsG4esE_ihaxu-.png" group-title="FOOTBALL EVENT",EPL - 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12570
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12499
+#EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12500
+#EXTINF:-1 tvg-id="" tvg-name="SERI A - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZySDikyrVzJK8uBGgx3r5w.png" group-title="FOOTBALL EVENT",SERI A - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12501
+
+#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12502
+#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12503
+#EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI1tYbkiG_Gb-BcF7ZUdFazg.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12504
+
+
+================================================================live3========================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9806
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12106
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="LIVE EVENT",MOTOGP - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12199
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE EVENT",LIGA 1 BRI-1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12192
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE EVENT",LIGA 1 BRI-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://luxurystream.my.id/live/89FAF0B274E8E4C8E7CEFE99C0AB2BA4/24.ts/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE EVENT",PRO LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117
+
+#EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9798
+#EXTINF:-1 tvg-id="" tvg-name="F ONE - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12169
+#EXTINF:-1 tvg-id="" tvg-name="F ONE - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="LIVE EVENT",F ONE - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12107
+
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11938
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9799
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12110
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9807
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 5" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="LIVE EVENT",TENNIS - 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12108
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLF - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/142
+#EXTINF:-1 tvg-id="" tvg-name="GOLF - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12112
+#EXTINF:-1 tvg-id="" tvg-name="GOLF - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="LIVE EVENT",GOLF - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9805
+
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="LIVE EVENT",CRICKET - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/122
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="LIVE EVENT",CRICKET - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9804
+
 ======================================================================sport=================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI3hdTdgT3VpzvIKDnMtmy81Sssd9TzofI8qec0TDvsos.png" group-title="SPORTS",ASTRO ARENA 1
@@ -1756,13 +1756,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTcgyuYR99zb2Bvv4ekTGvHL5Z_gLZ0J1SePZcPWqsiEg.png" group-title="? ASTRO MY",RTB Sukmaindera
+#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTcgyuYR99zb2Bvv4ekTGvHL5Z_gLZ0J1SePZcPWqsiEg.png" group-title="MALAYSIA",RTB Sukmaindera
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT6XX19Sy9gzYoKNl-qQXHug.png" group-title="? ASTRO MY",TVS
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT6XX19Sy9gzYoKNl-qQXHug.png" group-title="MALAYSIA",TVS
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11942
 
@@ -1786,7 +1786,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SMTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBaQrYVu5L6wGGRPK0EL2Le8F0HM3SauTEZOOy7sH4awM.png" group-title="TV DAERAH",SMTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11966
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBUMOuz1K0m22BBtVIO5GEz6f4I_OjlPtuFBO_a_QL_HU.png" group-title="TV DAERAH",BALI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -1800,36 +1800,43 @@ https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|re
 
 #EXTINF:-1 tvg-id="" tvg-name="TABALONG TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBMrO_c05BF7jmuJwu38VedYxi0U19-TyLdgI5Jl18QL8.png" group-title="TV DAERAH",TABALONG TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11969
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PADANG TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hByRYDOMldd7wFtyC0TC1txGeTni6uf5ZvC4eTuPiaj_o.png" group-title="TV DAERAH",PADANG TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11982
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DUTA TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBtVRxv7dbJ4C112hQF_lgd5DAviuTpHaz9XxqqimuFRk.png" group-title="TV DAERAH",DUTA TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11970
+
 #EXTINF:-1 tvg-id="" tvg-name="KAWANUA TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBybtj_OR9tR5avjR1C9XUGf4XRGkdf7MnDOs5_LiEFRA.png" group-title="TV DAERAH",KAWANUA TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11971
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBT-piHMaRP8u3_TKMpYrVwD7GC42ks1wTKUne7x_l9EA.png" group-title="TV DAERAH",JITV
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="SIMPANG 5 TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBTQauY6LqdHk0xJ4sFOtaUJhs-jhqcQgEKqxcSAkbsIY.png" group-title="TV DAERAH",SIMPANG 5 TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11973
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ADITV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBdE1q8uPoxxL3OK4E0Nv46qSMSIpAxYRUemgmdfi3GWk.png" group-title="TV DAERAH",ADITV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11974
+
 #EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hB2Yo4g9EwxWOuY-LKbnQqdlEeFsl9ZYf9hfrJUQ2Cbbs.png" group-title="TV DAERAH",TVKU
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11976
+http://103.30.1.14:8080/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BTV BALIKPAPAN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBahXLhha3mDzevsDoOYjHi7zzZ4bAIioPCvYKBWNNIyU.png" group-title="TV DAERAH",BTV BALIKPAPAN
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11977
+
 #EXTINF:-1 tvg-id="" tvg-name="JAMBI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hBvmR01WNeTXFryUayRJss79ohNjX5S1hT88z6-e4wzdc.png" group-title="TV DAERAH",JAMBI TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11978
+https://63b2dc7196c38.streamlock.net:1937/ch23/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="INSPIRA TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgvodlU131rzZ4ljzj3m2hB-Eg4k-xNaPPw5OyqLjA-b-KOwwZ70PEb2brtbHzAK2E.png" group-title="TV DAERAH",INSPIRA TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11980
@@ -1845,57 +1852,37 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/69
 #EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjZN3P6eCPVLz6-gK_R876TBEvbusdJ8yijMxi9fqR8KA.png" group-title="TV ANAK",MR. BEAN
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/71
-#EXTINF:-1 tvg-id="" tvg-name="Dangdut Online" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh835PIw-m24TJeusiGRd5x5Ent5-v0i0ILIDXS_xPTow.png" group-title="MUSIK",Dangdut Online
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1ObwRMm5Yi3joLp5TRLK-AUQ.png" group-title="GAYA HIDUP",MTV LIVE
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11984
-#EXTINF:-1 tvg-id="" tvg-name="Classy FM Padang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh835PIw-m24TJeusiGRd5x5Ent5-v0i0ILIDXS_xPTow.png" group-title="MUSIK",Classy FM Padang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OB-a4288V30eUqPBssA5xcg.png" group-title="GAYA HIDUP",MUSIC TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12025
-#EXTINF:-1 tvg-id="" tvg-name="Sushi FM Padang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh835PIw-m24TJeusiGRd5x5Ent5-v0i0ILIDXS_xPTow.png" group-title="MUSIK",Sushi FM Padang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMcixTkBEpA56v5oNdkoX61iA.png" group-title="GAYA HIDUP",NOW 90s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12027
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1ObwRMm5Yi3joLp5TRLK-AUQ.png" group-title="MUSIK",MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMc05VMflYArmHJoypp-9qFxg.png" group-title="GAYA HIDUP",NOW 80s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12076
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OB-a4288V30eUqPBssA5xcg.png" group-title="MUSIK",MUSIC TV
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMcGCqm-FdWZl8QLn1Jvqottg.png" group-title="GAYA HIDUP",NOW 70s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12077
-#EXTINF:-1 tvg-id="" tvg-name="XITE 80s FLASHBLACK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhocFmGz3uB-ITxEm_5sNoA9wrNjAw9krD4vjl4bVcuig.png" group-title="MUSIK",XITE 80s FLASHBLACK
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OEFG-op6NlwbjnGPw2WFV_A.png" group-title="GAYA HIDUP",Rock & Roll
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12081
-#EXTINF:-1 tvg-id="" tvg-name="XITE 90s THROWBACK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhocFmGz3uB-ITxEm_5sNoA9wrNjAw9krD4vjl4bVcuig.png" group-title="MUSIK",XITE 90s THROWBACK
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12082
-#EXTINF:-1 tvg-id="" tvg-name="XITE ROCK ON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhocFmGz3uB-ITxEm_5sNoA9wrNjAw9krD4vjl4bVcuig.png" group-title="MUSIK",XITE ROCK ON
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12083
-#EXTINF:-1 tvg-id="" tvg-name="XITE Hits" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhocFmGz3uB-ITxEm_5sNoA9wrNjAw9krD4vjl4bVcuig.png" group-title="MUSIK",XITE Hits
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12084
-#EXTINF:-1 tvg-id="" tvg-name="XITE Only Love" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhocFmGz3uB-ITxEm_5sNoA9wrNjAw9krD4vjl4bVcuig.png" group-title="MUSIK",XITE Only Love
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12085
-#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMcixTkBEpA56v5oNdkoX61iA.png" group-title="MUSIK",NOW 90s
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12092
-#EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMc05VMflYArmHJoypp-9qFxg.png" group-title="MUSIK",NOW 80s
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12093
-#EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiPCbIoJguqisB--b3aPPMcGCqm-FdWZl8QLn1Jvqottg.png" group-title="MUSIK",NOW 70s
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12094
-#EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OEFG-op6NlwbjnGPw2WFV_A.png" group-title="MUSIK",Rock & Roll
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12095
-#EXTINF:-1 tvg-id="" tvg-name="mOBA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OEFG-op6NlwbjnGPw2WFV_A.png" group-title="MUSIK",mOBA
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/h6NwHhGE43/12096
-#EXTINF:-1 tvg-id="" tvg-name="POP STAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OEFG-op6NlwbjnGPw2WFV_A.png" group-title="MUSIK",POP STAR
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/h6NwHhGE43/12097
-#EXTINF:-1 tvg-id="" tvg-name="JEKA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OEFG-op6NlwbjnGPw2WFV_A.png" group-title="MUSIK",JEKA
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12098
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 
 
