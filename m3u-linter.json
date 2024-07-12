@@ -474,11 +474,11 @@ ch.close();
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://imgur.com/ulMcqn8" group-title="INFORMASI",1d#-S(BUKAN UNTUK DIPERJUAL BELIKAN)
+#EXTINF:-1 tvg-name="6"  tvg-logo="https://i.imgur.com/8v38kyA.png" group-title="INFORMASI",1d#-S(BUKAN UNTUK DIPERJUAL BELIKAN)
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://imgur.com/8v38kyA" group-title="INFORMASI",1d#-S(GRATIS SEBAGAI MEDIA BELAJAR PEMUDA POJOK)
+#EXTINF:-1 tvg-name="6"  tvg-logo="https://i.imgur.com/I9mnFui.png" group-title="INFORMASI",1d#-S(GRATIS SEBAGAI MEDIA BELAJAR PEMUDA POJOK)
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://imgur.com/I9mnFui>" group-title="INFORMASI",2_Pojok Gayeng
+#EXTINF:-1 tvg-name="6"  tvg-logo="https://imgur.com/ulMcqn8" group-title="INFORMASI",2_Pojok Gayeng
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
