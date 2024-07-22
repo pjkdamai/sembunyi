@@ -1674,23 +1674,66 @@ https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12671
 ==================================================================================tvmy,sg,br================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTt_5IksNDjy9919iCXaj1Rg.png" group-title="MALAYSIA",ASTRO BOO
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11618
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiAW2OJp62HtK6GerrjKK7TtFSWLLx8cXCSvgoPWnkB7lLgVX7W0W3ACKW3cScwt7I.png" group-title="MALAYSIA",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTEPQA6hges0FDYRDyxZLRVuOf4PxMyYs3zuBv0EXsowU.png" group-title="MALAYSIA",ASTRO OASIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTOFesProEEoIsNMKEXhV1AhOL7VQyQtCxf0AzfG-yl9s.png" group-title="MALAYSIA",ASTRO PREMIER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTd5DTL9Bt3we9fVpMSpGeuHjufiXCjOGzAfexiBWthlE.png" group-title="MALAYSIA",ASTRO AURA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11620
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11814
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT2_BNa9BKppKoWYmxQkqEDlpcwUnhBLRgvsIRk38EPPs.png" group-title="MALAYSIA",SHOWCASE MOVIE
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11817
+
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT6XX19Sy9gzYoKNl-qQXHug.png" group-title="MALAYSIA",TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTj-bqHLRFWDzFWhUtSH1qwS9c4uDxiC0H_0_bhhGFX5c.png" group-title="MALAYSIA",ASTRO RANIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://38.47.189.134:1234/stream/astro/astrorania/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTfDFSpzgmKzupXv0owIfiEC2CNZMq8fe2Y-IBOMhXHuw.png" group-title="MALAYSIA",AWESOME
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QM_0h9h0SxL6WUjuwbZWg.png" group-title="MALAYSIA",TV 1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -1748,18 +1791,6 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTd5DTL9Bt3we9fVpMSpGeuHjufiXCjOGzAfexiBWthlE.png" group-title="MALAYSIA",ASTRO AURA
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11814
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTOFesProEEoIsNMKEXhV1AhOL7VQyQtCxf0AzfG-yl9s.png" group-title="MALAYSIA",ASTRO PREMIER
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11816
-
-#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT2_BNa9BKppKoWYmxQkqEDlpcwUnhBLRgvsIRk38EPPs.png" group-title="MALAYSIA",SHOWCASE MOVIE
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11817
-
 #EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTQ2Y-6fbdU2lPpSXvJyFkyhsMW5i2bBB0PA87G_zYwJA.png" group-title="MALAYSIA",RTB Aneka
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
@@ -1778,9 +1809,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT6XX19Sy9gzYoKNl-qQXHug.png" group-title="MALAYSIA",TVS
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11942
+
 
 ============================================================================daerah====================================================================================================================================================
 
