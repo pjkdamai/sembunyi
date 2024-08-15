@@ -1597,9 +1597,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 https://hzbcdcv.xyz/sg/HubPremier3/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 4" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",EPL - 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12570
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
