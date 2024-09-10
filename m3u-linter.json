@@ -646,7 +646,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 #EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://i.imgur.com/Saw1YsQ.png" group-title="TV NASIONAL",RCTI 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/eRACnut.png" group-title="TV NASIONAL",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
