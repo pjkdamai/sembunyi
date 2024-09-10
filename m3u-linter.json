@@ -644,9 +644,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://i.imgur.com/Saw1YsQ.png" group-title="TV NASIONAL",RCTI 2
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/eRACnut.png" group-title="TV NASIONAL",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -884,7 +884,8 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
-https://d1abp075u76pbq.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|Referer=https://www.visionplus.id/
+#https://d1abp075u76pbq.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|Referer=https://www.visionplus.id/
+http://beetv.my.id/x/usee-muhammadiyahtv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-name="MEKKAH TV" tvg-logo="https://i.imgur.com/F5VtI27.png" group-title="TV AGAMA",MEKKAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
