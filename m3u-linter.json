@@ -1319,42 +1319,39 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 ======================================================================sport=================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://i.imgur.com/PI7EwJe.png" group-title="SPORTS",ASTRO ARENA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#http://38.47.189.12:9197/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2604/default.mpd
-#https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0_WDoPrpsS8WJHVxG6cLT3s
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://sooka.cikgusuraya.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO ARENA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#http://38.47.189.12:9197/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5057/default.mpd
-#https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0-J3Qnx5GjWyNAggb-Xh5Tw
+https://sooka.cikgusuraya.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
-
+#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/59220
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru
-
+#https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/59219
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASSP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru
-
+#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/59218
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASSP 4
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+http://yesimes.oknirvana.club:8880/29ca012603/fsd34r34wr/59217
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="SPORTS",beIN SPORTS MY1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
