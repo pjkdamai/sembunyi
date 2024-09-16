@@ -1152,12 +1152,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|Referer
 #KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
 https://d1abp075u76pbq.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/cBo1huI.png" group-title="HIBURAN",TV 5 MONDE
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/cBo1huI.png" group-title="HIBURAN",TV5 MONDE Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d1abp075u76pbq.cloudfront.net/live/eds/TV5/sa_dash_vmx/TV5.mpd
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/cBo1huI.png" group-title="HIBURAN",TV5 MONDE Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.imgur.com/Ms3KVKJ.png" group-title="HIBURAN",ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1209,10 +1210,10 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/3TdACyX.png" group-title="PENGETAHUAN",LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://d1abp075u76pbq.cloudfront.net/live/eds/lovenature/sa_dash_vmx/lovenature.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/umAMyuk.png" group-title="PENGETAHUAN",BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1222,9 +1223,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/M3mVGrP.png" group-title="PENGETAHUAN",HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/
+http://ekdilhai.pro/USA_HISTORY/mpegts?token=5a5b9ed28d1efe17b59e5c11a64fc3fa
 
 #EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/p6DHWDC.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
