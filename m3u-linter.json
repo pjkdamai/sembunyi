@@ -494,9 +494,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/j1jr2He.png" group-title="TV NASIONAL",TRANS 7 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://ohkey5.xipigix207.workers.dev/https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sritv.serv00.net/red/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -505,25 +504,16 @@ https://ohkey5.xipigix207.workers.dev/https://streaming.indihometv.com/atm/DASH/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://ohkey5.xipigix207.workers.dev/https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sritv.serv00.net/red/play.m3u8?id=733&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://sritv.serv00.net/red/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV 1" tvg-logo="https://i.imgur.com/Z60erAq.png" group-title="TV NASIONAL",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=204&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
+https://sritv.serv00.net/red/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR 1" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -576,9 +566,8 @@ https://ohkey4.sesoxo1167.workers.dev/https://streaming.indihometv.com/atm/DASH/
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.imgur.com/fMdSNmA.png" group-title="TV NASIONAL",TV ONE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://ohkey5.xipigix207.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sritv.serv00.net/red/play.m3u8?id=783&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.imgur.com/gDyzEam.png" group-title="TV NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -598,7 +587,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.imgur.com/pSaeGYC.png" group-title="TV NASIONAL",NET TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=875&type=hls
+https://sritv.serv00.net/red/play.m3u8?id=875&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/H3XvAft.png" group-title="TV NASIONAL",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
