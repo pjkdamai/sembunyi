@@ -1100,7 +1100,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://i.imgur.com/sVz1rfA.png" group-title="HIBURAN",K PLUS
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QVj6I9k.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.sg" tvg-name="K-Plus HD", Kplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://i.imgur.com/bXzPXLF.png" group-title="HIBURAN",SONY GEM
