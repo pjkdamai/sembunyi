@@ -1756,6 +1756,11 @@ https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 https://sritv.serv00.net/red/play.mpd?id=6317&type=dash
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/qUEeYhc.png" group-title="SPORTS",Usa Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://ekdilhai.pro/USA_NETWORK/mpegts?token=c35356e3d49ba50c799c9443f0047512
+
+
 
 ================================================================live==========================================================================================================================================================================
 
