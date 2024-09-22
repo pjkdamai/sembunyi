@@ -750,11 +750,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelode
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://i.imgur.com/7YOKIWs.png" group-title="TV ANAK",ZOO MOO
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://d1abp075u76pbq.cloudfront.net/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ============================================================================berita======================================================================================================
 
