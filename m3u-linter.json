@@ -505,11 +505,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sritv.serv00.net/red/play.m3u8?id=733&type=hls
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=733&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://sritv.serv00.net/red/play.m3u8?id=205&type=hls
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV 1" tvg-logo="https://i.imgur.com/Z60erAq.png" group-title="TV NASIONAL",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -587,7 +587,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.imgur.com/pSaeGYC.png" group-title="TV NASIONAL",NET TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=875&=.m3u8
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=875&=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/H3XvAft.png" group-title="TV NASIONAL",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
